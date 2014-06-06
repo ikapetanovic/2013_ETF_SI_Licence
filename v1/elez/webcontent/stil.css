@@ -1,0 +1,158 @@
+BODY
+{
+	font-family : Tahoma;
+}
+
+TABLE#glavnaTabela
+{
+	border-collapse : collapse;
+
+	width : 924px;
+	height : 760px;
+}
+#login {
+margin-top:100px;
+padding-left:150px;
+background:url("slike/login.png") no-repeat;
+width:500px;
+height:400px;
+}
+
+#sporedniSadrzaj {
+padding-left:15px;
+
+padding-top:30px;
+padding-bottom:30px;
+text-align: center;
+vertical-align:top;
+background-color:#F0F0F0 ;
+width: 1000px;
+
+}
+A.navigacija {
+padding-left:10px;
+color:darkblue;
+text-decoration:none;
+color:#003366;
+font-size: 15px;
+
+}
+
+.navigacija {
+height: 15px;
+width: 250px;
+
+
+
+
+}
+td{
+text-align:right;
+}
+#link1, #link2, #link3, #link4, #link5, #link6, #link7, #link8, #link9, #link10, #link11, #link12{
+height: 30px;
+}
+
+
+TD#loginMeni
+{
+	background : url("slike/loginMeni.gif") no-repeat;
+	height : 59px;
+	padding-left : 60px;
+	padding-right : 60px;
+	text-align:right;
+}
+
+
+
+
+
+
+
+
+TD#glavniMeni
+{
+	background : url("slike/glavniMeni.gif") no-repeat;
+	height : 59px;
+	padding-left : 60px;
+	padding-right : 60px;
+}
+
+
+A.glavniMeni:link, A.glavniMeni:visited
+{
+	font-size : 20px;
+	color : #dbe2f0;
+	text-decoration : none;
+}
+
+A.glavniMeni:hover
+{
+	color : #FFCC33;
+}
+
+TD#sporedniMeni
+{
+	background : url("slike/sporedniMeni.gif") no-repeat;
+	height : 95px;
+	vertical-align: top;
+	padding-top:5px;
+text-align:right;
+	padding-left : 60px;
+	padding-right : 60px;
+
+}
+
+
+A.sporedniMeni:link, A.sporedniMeni:visited
+{
+	font-size : 18px;
+	color : #3790e8;
+	text-decoration : none;
+}
+
+A.sporedniMeni:hover
+{
+	color : #FF9933;
+}
+
+TD#sadrzaj
+{
+	background:url("slike/sadrzaj.gif") no-repeat;
+	text-align : left; 
+	vertical-align : top;
+	height : 760px;
+	font-size : 15px;
+	padding-left : 15px;
+	padding-right : 15px;
+
+	padding-bottom : 60px;
+}
+
+
+select.lista {
+width:200px;
+}
+
+textarea {
+width:220px;
+}
+
+p {
+text-align:center;
+}
+
+td {
+text-align:left;
+}
+
+th {
+background-color:#3ca9d0;
+color:white;
+width:230px;
+}
+table {
+border:0;
+}
+
+
